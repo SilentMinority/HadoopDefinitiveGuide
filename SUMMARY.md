@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [01+02 - Hadoop Fundamentals](book/01+02 - Hadoop Fundamentals.md)
+* [01+02 - Hadoop基础](book/01+02 - Hadoop Fundamentals.md)
 * [03 - HDFS](book/03 - HDFS.md)
 * [04 - Hadoop IO](book/04 - Hadoop IO.md)
 * [04 - YARN](book/04 - YARN)
